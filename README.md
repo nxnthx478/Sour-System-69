@@ -26,7 +26,7 @@
 ---
 
 ## 📸 Скриншоты интерфейса
-`![Screenshot](https://imgfoto.host/i/yVq2bu)`
+`![Screenshot] (https://imgfoto.host/i/yVq2bu)`
 
 ---
 
